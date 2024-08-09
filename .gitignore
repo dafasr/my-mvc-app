@@ -1,0 +1,31 @@
+# Node modules
+node_modules/
+
+# Logs
+*.log
+
+# Environment variables
+.env
+
+# Build output
+build/
+dist/
+
+# Vite cache
+.vite/
+
+# IDEs and editors
+.vscode/
+.idea/
+
+# Mac OS
+.DS_Store
+
+# Windows
+Thumbs.db
+
+# npm
+package-lock.json
+
+# pnpm
+pnpm-lock.yaml
